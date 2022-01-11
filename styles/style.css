@@ -40,7 +40,7 @@ main {
   padding-top: 10px;
 }
 
-.login_btn {
+/* .login_btn {
   display: flex;
   align-content: flex-end;
   outline: none;
@@ -49,6 +49,17 @@ main {
 
 .login_btn p {
   color: white;
+} */
+.login_btn{
+  text-decoration: none;
+  width: auto;
+  height: 50px;
+  border-radius: 5px;
+  padding: 5px;
+  align-content: center;
+  justify-content: center;
+  color: #e4e4e4;
+  background: #1c5380;
 }
 
 .sub_main {
